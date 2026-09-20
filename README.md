@@ -1,5 +1,5 @@
-# Engles_2026_12_02-
-
+[Activation] Extension path: c:\Users\EDY\.vscode\extensions\ms-vscode.vscode-chat-customizations-evaluations-1.1.2026080719
+    "liveServer.settings.port": 5502,
 # 001
 - Number one
 - This is color red
